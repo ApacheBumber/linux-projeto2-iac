@@ -1,4 +1,4 @@
-script-iac2.sh
+nano          script-iac2.sh
 #!/bin/bash
 
 echo" update and upgrade data..."
